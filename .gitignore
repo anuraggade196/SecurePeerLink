@@ -1,0 +1,28 @@
+# =========================
+# Frontend (Next.js - ui/)
+# =========================
+ui/node_modules/
+ui/.next/
+
+# Logs
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
+
+# =========================
+# Backend (Java / Maven)
+# =========================
+target/
+
+# =========================
+# IDE files
+# =========================
+.idea/
+*.iml
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
